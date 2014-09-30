@@ -1,0 +1,4 @@
+FIKRI
+=====
+
+TUGAS 2
